@@ -1,0 +1,8 @@
+Les couleurs principales utilisées dans l'image (en hexadécimal) sont :
+
+    #161a26 (fond sombre)
+    #eefcff (texte clair)
+    #f3c819 (élément jaune, comme le burger ou les étoiles)
+    #121522 (détail sombre)
+    #111421 (autre nuance sombre)
+
