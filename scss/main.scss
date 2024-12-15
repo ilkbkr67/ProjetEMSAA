@@ -1,0 +1,19 @@
+@import url("/node_modules/bootstrap-icons/font/bootstrap-icons.css");
+@import 'custom';
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Zilla Slab', serif;
+}
+
+p{
+    font-family: 'Lato', serif;
+}
+
+.btn.btn-primary {
+    color: $secondary;
+}
+
+header{
+    background-color: #111421;
+}
